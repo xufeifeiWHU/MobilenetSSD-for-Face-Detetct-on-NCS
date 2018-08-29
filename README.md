@@ -9,8 +9,7 @@ The provided Makefile does the following:
 # Prerequisites
 This program requires:
 - 1 NCS device
-- NCSDK 1.11 or greater
-	- run 'make install' and then 'make examples'
+- NCSDK 1.11 （do not support v2）
 - OpenCV
 
 
